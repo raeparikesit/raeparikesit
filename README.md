@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rae</h1>
-<h3 align="center">Hi, I'm Muhammad Raehan Parikesit, usually called Rae. Im an enthusiastic second year undergraduate informatics student who is interested in IT, and likes to learn new things, especially computer networks. Enjoying working on some projects . Love to work in a team, easily adaptable to new responsibilities and environments, highly motivated, emphasize logic and critical thinking.</h3>
+<h3 align="center">Hi, I'm Muhammad Raehan Parikesit, usually called Rae. Im an enthusiastic informatics student who is interested in IT, and likes to learn new things, especially computer networks. Enjoying working on some projects . Love to work in a team, easily adaptable to new responsibilities and environments, highly motivated, emphasize logic and critical thinking.</h3>
 
 ---
 <h3 align="left">Connect with me:</h3>
